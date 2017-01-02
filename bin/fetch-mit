@@ -1,0 +1,7 @@
+URL=http://shakespeare.mit.edu/hamlet/hamlet.1.1.html
+OUT=`basename $URL`
+
+echo fetching $URL
+curl -s $URL > src/$OUT
+
+

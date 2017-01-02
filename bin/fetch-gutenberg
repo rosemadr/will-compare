@@ -1,0 +1,8 @@
+#!/bin/bash
+
+URL=http://www.gutenberg.org/files/1524/1524.txt
+SRC=`basename $URL`
+
+curl $URL > src/$SRC
+ls -l src/$SRC
+

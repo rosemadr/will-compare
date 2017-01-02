@@ -1,0 +1,13 @@
+#!/bin/bash
+
+SRC='src/hamlet.1.1.html'
+OUT='texts/hamlet.1.1.mit.txt'
+
+echo processing $SRC
+
+# remove header and footer
+# remove html markup and blank lines
+sed '23,463!d' $SRC | \
+sed 's/<[^>]*>//g' | \
+sed '/^$/d' > $OUT
+

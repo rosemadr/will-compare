@@ -1,5 +1,5 @@
 # will-compare
-A project that compares versions of some Shakespeare texts.
+A project to compare versions of some Shakespeare texts.
 
 structure
 - scripts in bin directory

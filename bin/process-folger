@@ -1,0 +1,19 @@
+#!/bin/bash
+
+SRC='src/Ham.txt'
+OUT='texts/hamlet.1.1.folger.txt'
+
+ls -l $SRC $OUT
+# remove all lines except act I scene I
+# remove windows CR chars
+# remove empty lines
+# standardise character names
+sed '46,1432!d' $SRC | \
+sed 's///' | \
+sed '/^$/d' > $OUT
+# | \
+# sed 's/Fran\.$/FRANCISCO/' | \
+# sed 's/Ber\.$/BERNARDO/' | \
+# sed 's/Hor\.$/HORATIO/' | \
+# sed 's/^Mar\.$/MARCELLUS/' > $OUT
+

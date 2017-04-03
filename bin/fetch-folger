@@ -1,0 +1,7 @@
+URL=http://www.folgerdigitaltexts.org/download/txt/Ham.txt
+OUT=`basename $URL`
+
+echo fetching $URL
+curl -s $URL > src/$OUT
+
+

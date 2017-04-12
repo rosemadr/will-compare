@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -eu
+
+cat src/Ham.txt  \
+| sed '46,347!d'  \
+| sed 's/^BARNARDO/BERNARDO/'  \
+| bin/add-newline-after-character-names.py \
+| bin/normalise-whitespace.py

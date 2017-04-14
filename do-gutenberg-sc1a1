@@ -1,0 +1,1 @@
+cat src/1524.txt | sed '330,660!d' | bin/filter-gutenberg.py > texts/hamlet.1.1.gutenberg.txt

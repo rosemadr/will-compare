@@ -8,6 +8,8 @@ echo processing $SRC
 # remove header and footer
 # remove html markup and blank lines
 sed '23,463!d' $SRC | \
+sed 's/<\/i>/]/g' | \
+sed 's/<i>/[/g' | \
 sed 's/<[^>]*>//g' | \
 sed '/^$/d' > $OUT
 

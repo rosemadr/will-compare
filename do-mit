@@ -10,4 +10,5 @@ cat src/full.html \
 | sed 's/<\/i>/]/g' \
 | sed 's/<i>/[/g' \
 | sed 's/<[^>]*>//g' \
-| bin/normalise-whitespace.py
+| bin/normalise-whitespace.py \
+| bin/standardise-char-names.py

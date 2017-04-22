@@ -8,6 +8,7 @@ for line in fileinput.input():
     # deal with abbreviated character names
     line = line.replace('Fran.', 'FRANCISCO')
     line = line.replace('Ber.','BERNARDO')
+    line = line.replace('BANARDO','BERNARDO')
     line = line.replace('Mar.','MARCELLUS')
     line = line.replace('Hor.','HORATIO')
     line = line.replace('King.', 'KING CLAUDIUS')
@@ -23,11 +24,18 @@ for line in fileinput.input():
     line = line.replace('Ros.','ROSENCRANTZ')
     line = line.replace('Guil.','GUILDENSTERN')
     line = line.replace('I Play.','FIRST PLAYER')
+    line = line.replace('First Player','FIRST PLAYER')
     line = line.replace('P. King.','PLAYER KING')
+    line = line.replace('Player King','PLAYER KING')
     line = line.replace('P. Queen.','PLAYER QUEEN')
+    line = line.replace('Player Queen','PLAYER QUEEN')
     line = line.replace('Luc.', 'LUCIANUS')
+    line = line.replace('Pro.','PROLOGUE')
+    line = line.replace('Prologue','PROLOGUE')
     line = line.replace('1 Clown', 'GRAVEDIGGER')
-    line = line.replace('2. Clown', 'OTHER')
+    line = line.replace('First Clown','GRAVEDIGGER')
+    line = line.replace('2 Clown', 'OTHER')
+    line = line.replace('Second Clown','OTHER')
 
     print(line)
 

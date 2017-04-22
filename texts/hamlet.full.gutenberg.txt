@@ -2110,7 +2110,7 @@ FIRST PLAYER
 Ay, my lord.
 HAMLET
 Very well.--Follow that lord; and look you mock him not.
-[Exit First Player.]
+[Exit FIRST PLAYER.]
 --My good friends [to ROSENCRANTZ and Guild.], I'll leave you till
 night: you are welcome to Elsinore.
 ROSENCRANTZ
@@ -2623,7 +2623,7 @@ HAMLET
 Marry, this is miching mallecho; it means mischief.
 OPHELIA
 Belike this show imports the argument of the play.
-[Enter Prologue.]
+[Enter PROLOGUE.]
 HAMLET
 We shall know by this fellow: the players cannot keep counsel;
 they'll tell all.
@@ -2634,7 +2634,7 @@ Ay, or any show that you'll show him: be not you ashamed to
 show, he'll not shame to tell you what it means.
 OPHELIA
 You are naught, you are naught: I'll mark the play.
-Pro.
+PROLOGUE
 For us, and for our tragedy,
 Here stooping to your clemency,
 We beg your hearing patiently.
@@ -3728,7 +3728,7 @@ QUEEN GERTRUDE
 Let her come in.
 [Exit Horatio.]
 To my sick soul, as sin's true nature is,
-Each toy seems Prologue to some great amiss:
+Each toy seems PROLOGUE to some great amiss:
 So full of artless jealousy is guilt,
 It spills itself in fearing to be spilt.
 [Re-enter Horatio with Ophelia.]
@@ -4319,19 +4319,19 @@ Scene I. A churchyard.
 GRAVEDIGGER.
 Is she to be buried in Christian burial when she wilfully
 seeks her own salvation?
-2 Clown.
+OTHER.
 I tell thee she is; and therefore make her grave straight: the
 crowner hath sat on her, and finds it Christian burial.
 GRAVEDIGGER.
 How can that be, unless she drowned herself in her own defence?
-2 Clown.
+OTHER.
 Why, 'tis found so.
 GRAVEDIGGER.
 It must be se offendendo; it cannot be else. For here lies
 the point: if I drown myself wittingly, it argues an act: and an
 act hath three branches; it is to act, to do, and to perform:
 argal, she drowned herself wittingly.
-2 Clown.
+OTHER.
 Nay, but hear you, goodman delver,--
 GRAVEDIGGER.
 Give me leave. Here lies the water; good: here stands the
@@ -4339,11 +4339,11 @@ man; good: if the man go to this water and drown himself, it is,
 will he, nill he, he goes,--mark you that: but if the water come
 to him and drown him, he drowns not himself; argal, he that is
 not guilty of his own death shortens not his own life.
-2 Clown.
+OTHER.
 But is this law?
 GRAVEDIGGER.
 Ay, marry, is't--crowner's quest law.
-2 Clown.
+OTHER.
 Will you ha' the truth on't? If this had not been a
 gentlewoman, she should have been buried out o' Christian burial.
 GRAVEDIGGER.
@@ -4352,38 +4352,38 @@ should have countenance in this world to drown or hang themselves
 more than their even Christian.--Come, my spade. There is no
 ancient gentlemen but gardeners, ditchers, and grave-makers: they
 hold up Adam's profession.
-2 Clown.
+OTHER.
 Was he a gentleman?
 GRAVEDIGGER.
 He was the first that ever bore arms.
-2 Clown.
+OTHER.
 Why, he had none.
 GRAVEDIGGER.
 What, art a heathen? How dost thou understand the Scripture?
 The Scripture says Adam digg'd: could he dig without arms? I'll
 put another question to thee: if thou answerest me not to the
 purpose, confess thyself,--
-2 Clown.
+OTHER.
 Go to.
 GRAVEDIGGER.
 What is he that builds stronger than either the mason, the
 shipwright, or the carpenter?
-2 Clown.
+OTHER.
 The gallows-maker; for that frame outlives a thousand tenants.
 GRAVEDIGGER.
 I like thy wit well, in good faith: the gallows does well;
 but how does it well? it does well to those that do ill: now,
 thou dost ill to say the gallows is built stronger than the
 church; argal, the gallows may do well to thee. To't again, come.
-2 Clown.
+OTHER.
 Who builds stronger than a mason, a shipwright, or a carpenter?
 GRAVEDIGGER.
 Ay, tell me that, and unyoke.
-2 Clown.
+OTHER.
 Marry, now I can tell.
 GRAVEDIGGER.
 To't.
-2 Clown.
+OTHER.
 Mass, I cannot tell.
 [Enter Hamlet and Horatio, at a distance.]
 GRAVEDIGGER.
@@ -4392,7 +4392,7 @@ not mend his pace with beating; and when you are asked this
 question next, say 'a grave-maker;' the houses he makes last
 till doomsday. Go, get thee to Yaughan; fetch me a stoup of
 liquor.
-[Exit Second Clown.]
+[Exit OTHER.]
 [Digs and sings.]
 In youth when I did love, did love,
 Methought it was very sweet;

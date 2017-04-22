@@ -1,18 +1,0 @@
-#!/bin/bash
-
-SRC='src/1524.txt'
-OUT='texts/hamlet.1.1.gutenberg.txt'
-
-ls -l $SRC $OUT
-# remove all lines except act I scene I
-# remove windows CR chars
-# remove empty lines
-# standardise character names
-sed '330,660!d' $SRC | \
-sed 's///' | \
-sed '/^$/d' | \
-sed 's/Fran\.$/FRANCISCO/' | \
-sed 's/Ber\.$/BERNARDO/' | \
-sed 's/Hor\.$/HORATIO/' | \
-sed 's/^Mar\.$/MARCELLUS/' > $OUT
-

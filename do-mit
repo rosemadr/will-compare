@@ -1,15 +1,13 @@
 #!/bin/bash
 
-SRC='src/hamlet.1.1.html'
-OUT='texts/hamlet.1.1.mit.txt'
-
-echo processing $SRC
+set -eu
 
 # remove header and footer
 # remove html markup and blank lines
-sed '23,463!d' $SRC | \
-sed 's/<\/i>/]/g' | \
-sed 's/<i>/[/g' | \
-sed 's/<[^>]*>//g' | \
-sed '/^$/d' > $OUT
-
+# convert italic tags to sq brackets
+cat src/full.html \
+| sed '5,8877!d' \
+| sed 's/<\/i>/]/g' \
+| sed 's/<i>/[/g' \
+| sed 's/<[^>]*>//g' \
+| bin/normalise-whitespace.py

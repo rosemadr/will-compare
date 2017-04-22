@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -eu
+
+cat src/1524.txt \
+| sed '287,7055!d' \
+| bin/standardise-char-names.py \
+| bin/normalise-whitespace.py
+# | bin/filter-gutenberg.py

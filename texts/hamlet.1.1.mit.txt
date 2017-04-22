@@ -1,5 +1,5 @@
 SCENE I. Elsinore. A platform before the castle.
-FRANCISCO at his post. Enter to him BERNARDO
+[FRANCISCO at his post. Enter to him BERNARDO]
 BERNARDO
 Who's there?
 FRANCISCO
@@ -27,7 +27,7 @@ If you do meet Horatio and Marcellus,
 The rivals of my watch, bid them make haste.
 FRANCISCO
 I think I hear them. Stand, ho! Who's there?
-Enter HORATIO and MARCELLUS
+[Enter HORATIO and MARCELLUS]
 HORATIO
 Friends to this ground.
 MARCELLUS
@@ -40,7 +40,7 @@ Who hath relieved you?
 FRANCISCO
 Bernardo has my place.
 Give you good night.
-Exit
+[Exit]
 MARCELLUS
 Holla! Bernardo!
 BERNARDO
@@ -78,7 +78,7 @@ When yond same star that's westward from the pole
 Had made his course to illume that part of heaven
 Where now it burns, Marcellus and myself,
 The bell then beating one,--
-Enter Ghost
+[Enter Ghost]
 MARCELLUS
 Peace, break thee off; look, where it comes again!
 BERNARDO
@@ -104,7 +104,7 @@ BERNARDO
                   See, it stalks away!
 HORATIO
 Stay! speak, speak! I charge thee, speak!
-Exit Ghost
+[Exit Ghost]
 MARCELLUS
 'Tis gone, and will not answer.
 BERNARDO
@@ -193,14 +193,14 @@ And prologue to the omen coming on,
 Have heaven and earth together demonstrated
 Unto our climatures and countrymen.--
 But soft, behold! lo, where it comes again!
-Re-enter Ghost
+[Re-enter Ghost]
 I'll cross it, though it blast me. Stay, illusion!
 If thou hast any sound, or use of voice,
 Speak to me:
 If there be any good thing to be done,
 That may to thee do ease and grace to me,
 Speak to me:
-Cock crows
+[Cock crows]
 If thou art privy to thy country's fate,
 Which, happily, foreknowing may avoid, O, speak!
 Or if thou hast uphoarded in thy life
@@ -217,7 +217,7 @@ HORATIO
 'Tis here!
 MARCELLUS
 'Tis gone!
-Exit Ghost
+[Exit Ghost]
 We do it wrong, being so majestical,
 To offer it the show of violence;
 For it is, as the air, invulnerable,
@@ -256,4 +256,4 @@ As needful in our loves, fitting our duty?
 MARCELLUS
 Let's do't, I pray; and I this morning know
 Where we shall find him most conveniently.
-Exeunt
+[Exeunt]

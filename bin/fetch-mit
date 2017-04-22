@@ -1,4 +1,4 @@
-URL=http://shakespeare.mit.edu/hamlet/hamlet.1.1.html
+URL=http://shakespeare.mit.edu/hamlet/full.html
 OUT=`basename $URL`
 
 echo fetching $URL

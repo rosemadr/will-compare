@@ -8,7 +8,7 @@ for line in fileinput.input():
     # deal with abbreviated character names
     line = line.replace('Fran.', 'FRANCISCO')
     line = line.replace('Ber.','BERNARDO')
-    line = line.replace('BANARDO','BERNARDO')
+    line = line.replace('BARNARDO','BERNARDO')
     line = line.replace('Mar.','MARCELLUS')
     line = line.replace('Hor.','HORATIO')
     line = line.replace('King.', 'KING CLAUDIUS')

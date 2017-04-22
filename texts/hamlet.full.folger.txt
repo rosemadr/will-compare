@@ -26,12 +26,12 @@ Gentlemen
 A Lord
 Danish soldiers:
 FRANCISCO
-BARNARDO
+BERNARDO
 MARCELLUS
 FORTINBRAS, Prince of Norway
 A Captain in Fortinbras's army
 Ambassadors to Denmark from England
-Players who take the roles of Prologue, Player King, Player Queen, and Lucianus in <title>The Murder of Gonzago</title>
+Players who take the roles of PROLOGUE, PLAYER KING, PLAYER QUEEN, and Lucianus in <title>The Murder of Gonzago</title>
 Two Messengers
 Sailors
 Gravedigger
@@ -119,7 +119,7 @@ When yond same star that's westward from the pole
 Had made his course t' illume that part of heaven
 Where now it burns, Marcellus and myself,
 The bell then beating one--
-[Enter Ghost.]
+[Enter THE GHOST]
 MARCELLUS
 Peace, break thee off! Look where it comes again.
 BERNARDO
@@ -235,7 +235,7 @@ As harbingers preceding still the fates
 And prologue to the omen coming on,
 Have heaven and Earth together demonstrated
 Unto our climatures and countrymen.
-[Enter Ghost.]
+[Enter THE GHOST]
 But soft, behold! Lo, where it comes again!
 I'll cross it though it blast me.--Stay, illusion!
 [It spreads his arms.]
@@ -896,7 +896,7 @@ Shall in the general censure take corruption
 From that particular fault. The dram of evil
 Doth all the noble substance of a doubt
 To his own scandal.
-[Enter Ghost.]
+[Enter THE GHOST]
 HORATIO
 Look, my lord, it comes.
 HAMLET
@@ -1407,7 +1407,7 @@ He seemed to find his way without his eyes,
 For out o' doors he went without their helps
 And to the last bended their light on me.
 POLONIUS
-Come, go with me. I will go seek the King.
+Come, go with me. I will go seek the KING CLAUDIUS
 This is the very ecstasy of love,
 Whose violent property fordoes itself
 And leads the will to desperate undertakings
@@ -1426,7 +1426,7 @@ And meant to wrack thee. But beshrew my jealousy!
 By heaven, it is as proper to our age
 To cast beyond ourselves in our opinions
 As it is common for the younger sort
-To lack discretion. Come, go we to the King.
+To lack discretion. Come, go we to the KING CLAUDIUS
 This must be known, which, being kept close, might
 move
 More grief to hide than hate to utter love.
@@ -1647,7 +1647,7 @@ Here in the lobby.
 QUEEN  So he does indeed.
 POLONIUS
 At such a time I'll loose my daughter to him.
-[To the King.] Be you and I behind an arras then.
+[To the KING CLAUDIUS] Be you and I behind an arras then.
 Mark the encounter. If he love her not,
 And be not from his reason fall'n thereon,
 Let me be no assistant for a state,
@@ -2161,7 +2161,7 @@ Come, sirs.
 HAMLET
 Follow him, friends. We'll hear a play
 tomorrow. [As Polonius and Players exit, Hamlet speaks to
-the First Player.] Dost thou hear me, old friend? Can
+the FIRST PLAYER.] Dost thou hear me, old friend? Can
 you play "The Murder of Gonzago"?
 FIRST PLAYER
 Ay, my lord.
@@ -2174,7 +2174,7 @@ FIRST PLAYER
 Ay, my lord.
 HAMLET
 Very well. Follow that lord--and look you
-mock him not. [First Player exits.] My good friends,
+mock him not. [FIRST PLAYER exits.] My good friends,
 I'll leave you till night. You are welcome to Elsinore.
 ROSENCRANTZ
 Good my lord.
@@ -2239,7 +2239,7 @@ Out of my weakness and my melancholy,
 As he is very potent with such spirits,
 Abuses me to damn me. I'll have grounds
 More relative than this. The play's the thing
-Wherein I'll catch the conscience of the King.
+Wherein I'll catch the conscience of the KING CLAUDIUS
 [He exits.]
 ACT 3
 =====
@@ -2590,7 +2590,7 @@ To sound what stop she please. Give me that man
 That is not passion's slave, and I will wear him
 In my heart's core, ay, in my heart of heart,
 As I do thee.--Something too much of this.--
-There is a play tonight before the King.
+There is a play tonight before the KING CLAUDIUS
 One scene of it comes near the circumstance
 Which I have told thee of my father's death.
 I prithee, when thou seest that act afoot,
@@ -2708,7 +2708,7 @@ mischief.
 OPHELIA
 Belike this show imports the argument of the
 play.
-[Enter Prologue.]
+[Enter PROLOGUE.]
 HAMLET
 We shall know by this fellow. The players
 cannot keep counsel; they'll tell all.
@@ -2731,7 +2731,7 @@ OPHELIA
 'Tis brief, my lord.
 HAMLET
 As woman's love.
-[Enter the Player King and Queen.]
+[Enter the PLAYER KING and QUEEN GERTRUDE]
 PLAYER KING
 Full thirty times hath Phoebus' cart gone round
 Neptune's salt wash and Tellus' orbed ground,
@@ -2820,7 +2820,7 @@ The tedious day with sleep.	[Sleeps.]
 PLAYER QUEEN
 Sleep rock thy brain,
 And never come mischance between us twain.
-[Player Queen exits.]
+[PLAYER QUEEN exits.]
 HAMLET
 Madam, how like you this play?
 QUEEN  The lady doth protest too much, methinks.
@@ -3273,7 +3273,7 @@ Ay, lady, it was my word.
 Thou wretched, rash, intruding fool, farewell.
 I took thee for thy better. Take thy fortune.
 Thou find'st to be too busy is some danger.
-[To Queen.] Leave wringing of your hands. Peace, sit
+[To QUEEN GERTRUDE] Leave wringing of your hands. Peace, sit
 you down,
 And let me wring your heart; for so I shall
 If it be made of penetrable stuff,
@@ -3356,7 +3356,7 @@ And put it in his pocket--
 QUEEN  No more!
 HAMLET
 A king of shreds and patches--
-[Enter Ghost.]
+[Enter THE GHOST]
 Save me and hover o'er me with your wings,
 You heavenly guards!--What would your gracious
 figure?
@@ -3386,7 +3386,7 @@ Sprinkle cool patience! Whereon do you look?
 HAMLET
 On him, on him! Look you how pale he glares.
 His form and cause conjoined, preaching to stones,
-Would make them capable. [To the Ghost.] Do not
+Would make them capable. [To the THE GHOST] Do not
 look upon me,
 Lest with this piteous action you convert
 My stern effects. Then what I have to do
@@ -3600,7 +3600,7 @@ I am glad of it. A knavish speech sleeps in a
 foolish ear.
 ROSENCRANTZ
 My lord, you must tell us where the
-body is and go with us to the King.
+body is and go with us to the KING CLAUDIUS
 HAMLET
 The body is with the King, but the King is not
 with the body. The King is a thing--
@@ -3852,7 +3852,7 @@ QUEEN  Nay, but Ophelia--
 OPHELIA
 Pray you, mark.
 [Sings.]	White his shroud as the mountain snow--
-[Enter King.]
+[Enter KING CLAUDIUS]
 QUEEN  Alas, look here, my lord.
 OPHELIA
 [sings]
@@ -4120,7 +4120,8 @@ am let to know it is.	[He hands Horatio a letter.]
 HORATIO
 [reads the letter]  Horatio, when thou shalt have
 overlooked this, give these fellows some means to the
-King. They have letters for him. Ere we were two days
+KING CLAUDIUS
+They have letters for him. Ere we were two days
 old at sea, a pirate of very warlike appointment gave
 us chase. Finding ourselves too slow of sail, we put on
 a compelled valor, and in the grapple I boarded them.
@@ -4189,7 +4190,7 @@ And that, I hope, will teach you to imagine--
 How now? What news?
 MESSENGER  Letters, my lord, from
 Hamlet.
-These to your Majesty, this to the Queen.
+These to your Majesty, this to the QUEEN GERTRUDE
 KING  From Hamlet? Who brought them?
 MESSENGER
 Sailors, my lord, they say. I saw them not.
@@ -4353,7 +4354,7 @@ A chalice for the nonce, whereon but sipping,
 If he by chance escape your venomed stuck,
 Our purpose may hold there.--But stay, what
 noise?
-[Enter Queen.]
+[Enter QUEEN GERTRUDE]
 QUEEN
 One woe doth tread upon another's heel,
 So fast they follow. Your sister's drowned, Laertes.
@@ -5308,7 +5309,7 @@ Never to rise again. Thy mother's poisoned.
 I can no more. The King, the King's to blame.
 HAMLET
 The point envenomed too! Then, venom, to thy
-work.	[Hurts the King.]
+work.	[Hurts the KING CLAUDIUS]
 ALL  Treason, treason!
 KING
 O, yet defend me, friends! I am but hurt.

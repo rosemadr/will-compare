@@ -6,7 +6,7 @@ set -eu
 # remove html markup and blank lines
 # convert italic tags to sq brackets
 cat src/full.html \
-| sed '14,8877!d' \
+| sed '21,8877!d' \
 | sed 's/<\/i>/]/g' \
 | sed 's/<i>/[/g' \
 | sed 's/<[^>]*>//g' \

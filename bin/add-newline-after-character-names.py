@@ -5,7 +5,12 @@ import re
 
 for line in fileinput.input():
     # deal with abbreviated character names
-    for name in [ 'FRANCISCO', 'BERNARDO', 'MARCELLUS', 'HORATIO', 'KING CLAUDIUS', 'CORNELIUS', 'VOLTENMAND', 'LAERTES', 'POLONIUS', 'HAMLET', 'QUEEN GERTRUDE', 'OPHELIA', 'THE GHOST', 'REYNALDO', 'ROSENCRANTZ', 'GUILDENSTERN', 'FIRST PLAYER', 'PLAYER KING', 'PLAYER QUEEN', 'LUCIANUS', 'GRAVEDIGGER', 'OTHER']:
+    for name in [ 'FRANCISCO', 'BERNARDO', 'MARCELLUS', 'HORATIO',
+                  'KING', 'CORNELIUS', 'VOLTENMAND', 'LAERTES',
+                  'POLONIUS', 'HAMLET', 'QUEEN', 'OPHELIA',
+                  'GHOST', 'REYNALDO', 'ROSENCRANTZ', 'GUILDENSTERN',
+                  'FIRST PLAYER', 'PLAYER KING', 'PLAYER QUEEN', 'LUCIANUS',
+                  'GRAVEDIGGER', 'OTHER', 'PROLOGUE', 'FORTINBRAS','AMBASSADOR']:
         line = re.sub('^'+name, name+'\n', line.rstrip())
 
     print(line)

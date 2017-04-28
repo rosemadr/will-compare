@@ -81,7 +81,7 @@ Where now it burns, Marcellus and myself,
 The bell then beating one,--
 MARCELLUS
 Peace, break thee off; look where it comes again!
-[Enter Ghost, armed.]
+[Enter GHOST, armed.]
 BERNARDO
 In the same figure, like the king that's dead.
 MARCELLUS
@@ -864,7 +864,7 @@ Making night hideous, and we fools of nature
 So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?
 Say, why is this? wherefore? what should we do?
-[Ghost beckons Hamlet.]
+[GHOST beckons Hamlet.]
 HORATIO
 It beckons you to go away with it,
 As if it some impartment did desire
@@ -909,12 +909,12 @@ HAMLET
 My fate cries out,
 And makes each petty artery in this body
 As hardy as the Nemean lion's nerve.--
-[Ghost beckons.]
+[GHOST beckons.]
 Still am I call'd;--unhand me, gentlemen;--
 [Breaking free from them.]
 By heaven, I'll make a ghost of him that lets me!--
 I say, away!--Go on; I'll follow thee.
-[Exeunt Ghost and Hamlet.]
+[Exeunt GHOST and Hamlet.]
 HORATIO
 He waxes desperate with imagination.
 MARCELLUS
@@ -929,7 +929,7 @@ MARCELLUS
 Nay, let's follow him.
 [Exeunt.]
 Scene V. A more remote part of the Castle.
-[Enter Ghost and Hamlet.]
+[Enter GHOST and Hamlet.]
 HAMLET
 Whither wilt thou lead me? speak! I'll go no further.
 GHOST

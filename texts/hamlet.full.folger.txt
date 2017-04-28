@@ -2,7 +2,7 @@ ACT 1
 =====
 Scene 1
 =======
-[Enter Barnardo and Francisco, two sentinels.]
+[Enter Bernardo and Francisco, two sentinels.]
 BERNARDO
 Who's there?
 FRANCISCO
@@ -10,7 +10,7 @@ Nay, answer me. Stand and unfold yourself.
 BERNARDO
 Long live the King!
 FRANCISCO
-Barnardo.
+Bernardo.
 BERNARDO
 He.
 FRANCISCO
@@ -41,10 +41,10 @@ MARCELLUS
 O farewell, honest soldier. Who hath relieved
 you?
 FRANCISCO
-Barnardo hath my place. Give you good night.
+Bernardo hath my place. Give you good night.
 [Francisco exits.]
 MARCELLUS
-Holla, Barnardo.
+Holla, Bernardo.
 BERNARDO
 Say, what, is Horatio there?
 HORATIO
@@ -72,7 +72,7 @@ That are so fortified against our story,
 What we have two nights seen.
 HORATIO
 Well, sit we down,
-And let us hear Barnardo speak of this.
+And let us hear Bernardo speak of this.
 BERNARDO
 Last night of all,
 When yond same star that's westward from the pole
@@ -107,7 +107,7 @@ BERNARDO
 See, it stalks away.
 HORATIO
 Stay! speak! speak! I charge thee, speak!
-[Ghost exits.]
+[GHOST exits.]
 MARCELLUS
 'Tis gone and will not answer.
 BERNARDO
@@ -220,7 +220,7 @@ BERNARDO
 'Tis here.
 HORATIO
 'Tis here.
-[Ghost exits.]
+[GHOST exits.]
 MARCELLUS
 'Tis gone.
 We do it wrong, being so majestical,
@@ -456,7 +456,7 @@ She married. O, most wicked speed, to post
 With such dexterity to incestuous sheets!
 It is not, nor it cannot come to good.
 But break, my heart, for I must hold my tongue.
-[Enter Horatio, Marcellus, and Barnardo.]
+[Enter Horatio, Marcellus, and Bernardo.]
 HORATIO
 Hail to your Lordship.
 HAMLET
@@ -471,7 +471,7 @@ Marcellus?
 MARCELLUS
 My good lord.
 HAMLET
-I am very glad to see you. [To Barnardo.] Good
+I am very glad to see you. [To Bernardo.] Good
 even, sir.--
 But what, in faith, make you from Wittenberg?
 HORATIO
@@ -522,7 +522,7 @@ HAMLET
 For God's love, let me hear!
 HORATIO
 Two nights together had these gentlemen,
-Marcellus and Barnardo, on their watch,
+Marcellus and Bernardo, on their watch,
 In the dead waste and middle of the night,
 Been thus encountered: a figure like your father,
 Armed at point exactly, cap-a-pie,
@@ -881,7 +881,7 @@ Making night hideous, and we fools of nature
 So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?
 Say, why is this? Wherefore? What should we do?
-[Ghost beckons.]
+[GHOST beckons.]
 HORATIO
 It beckons you to go away with it
 As if it some impartment did desire
@@ -928,7 +928,7 @@ As hardy as the Nemean lion's nerve.
 Still am I called. Unhand me, gentlemen.
 By heaven, I'll make a ghost of him that lets me!
 I say, away!--Go on. I'll follow thee.
-[Ghost and Hamlet exit.]
+[GHOST and Hamlet exit.]
 HORATIO
 He waxes desperate with imagination.
 MARCELLUS
@@ -944,7 +944,7 @@ Nay, let's follow him.
 [They exit.]
 Scene 5
 =======
-[Enter Ghost and Hamlet.]
+[Enter GHOST and Hamlet.]
 HAMLET
 Whither wilt thou lead me? Speak. I'll go no
 further.
@@ -3410,7 +3410,7 @@ HAMLET
 Why, look you there, look how it steals away!
 My father, in his habit as he lived!
 Look where he goes even now out at the portal!
-[Ghost exits.]
+[GHOST exits.]
 QUEEN
 This is the very coinage of your brain.
 This bodiless creation ecstasy

@@ -79,7 +79,7 @@ When yond same star that's westward from the pole
 Had made his course to illume that part of heaven
 Where now it burns, Marcellus and myself,
 The bell then beating one,--
-[Enter Ghost]
+[Enter GHOST]
 MARCELLUS
 Peace, break thee off; look, where it comes again!
 BERNARDO
@@ -105,7 +105,7 @@ BERNARDO
 See, it stalks away!
 HORATIO
 Stay! speak, speak! I charge thee, speak!
-[Exit Ghost]
+[Exit GHOST]
 MARCELLUS
 'Tis gone, and will not answer.
 BERNARDO
@@ -194,7 +194,7 @@ And prologue to the omen coming on,
 Have heaven and earth together demonstrated
 Unto our climatures and countrymen.--
 But soft, behold! lo, where it comes again!
-[Re-enter Ghost]
+[Re-enter GHOST]
 I'll cross it, though it blast me. Stay, illusion!
 If thou hast any sound, or use of voice,
 Speak to me:
@@ -218,7 +218,7 @@ HORATIO
 'Tis here!
 MARCELLUS
 'Tis gone!
-[Exit Ghost]
+[Exit GHOST]
 We do it wrong, being so majestical,
 To offer it the show of violence;
 For it is, as the air, invulnerable,
@@ -259,7 +259,7 @@ Let's do't, I pray; and I this morning know
 Where we shall find him most conveniently.
 [Exeunt]
 SCENE II. A room of state in the castle.
-[Enter KING, QUEEN, HAMLET,  POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords, and Attendants]
+[Enter KING, QUEEN, HAMLET,  POLONIUS, LAERTES, VOLTEMAND, CORNELIUS, Lords, and Attendants]
 KING
 Though yet of Hamlet our dear brother's death
 The memory be green, and that it us befitted
@@ -301,11 +301,11 @@ To business with the king, more than the scope
 Of these delated articles allow.
 Farewell, and let your haste commend your duty.
 CORNELIUS
-VOLTIMAND
+VOLTEMAND
 In that and all things will we show our duty.
 KING
 We doubt it nothing: heartily farewell.
-[Exeunt VOLTIMAND and CORNELIUS]
+[Exeunt VOLTEMAND and CORNELIUS]
 And now, Laertes, what's the news with you?
 You told us of some suit; what is't, Laertes?
 You cannot speak of reason to the Dane,
@@ -843,7 +843,7 @@ Doth all the noble substance of a doubt
 To his own scandal.
 HORATIO
 Look, my lord, it comes!
-[Enter Ghost]
+[Enter GHOST]
 HAMLET
 Angels and ministers of grace defend us!
 Be thou a spirit of health or goblin damn'd,
@@ -864,7 +864,7 @@ Making night hideous; and we fools of nature
 So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?
 Say, why is this? wherefore? what should we do?
-[Ghost beckons HAMLET]
+[GHOST beckons HAMLET]
 HORATIO
 It beckons you to go away with it,
 As if it some impartment did desire
@@ -912,7 +912,7 @@ As hardy as the Nemean lion's nerve.
 Still am I call'd. Unhand me, gentlemen.
 By heaven, I'll make a ghost of him that lets me!
 I say, away! Go on; I'll follow thee.
-[Exeunt Ghost and HAMLET]
+[Exeunt GHOST and HAMLET]
 HORATIO
 He waxes desperate with imagination.
 MARCELLUS
@@ -930,26 +930,26 @@ SCENE V. Another part of the platform.
 [Enter GHOST and HAMLET]
 HAMLET
 Where wilt thou lead me? speak; I'll go no further.
-Ghost
+GHOST
 Mark me.
 HAMLET
 I will.
-Ghost
+GHOST
 My hour is almost come,
 When I to sulphurous and tormenting flames
 Must render up myself.
 HAMLET
 Alas, poor ghost!
-Ghost
+GHOST
 Pity me not, but lend thy serious hearing
 To what I shall unfold.
 HAMLET
 Speak; I am bound to hear.
-Ghost
+GHOST
 So art thou to revenge, when thou shalt hear.
 HAMLET
 What?
-Ghost
+GHOST
 I am thy father's spirit,
 Doom'd for a certain term to walk the night,
 And for the day confined to fast in fires,
@@ -967,18 +967,18 @@ To ears of flesh and blood. List, list, O, list!
 If thou didst ever thy dear father love--
 HAMLET
 O God!
-Ghost
+GHOST
 Revenge his foul and most unnatural murder.
 HAMLET
 Murder!
-Ghost
+GHOST
 Murder most foul, as in the best it is;
 But this most foul, strange and unnatural.
 HAMLET
 Haste me to know't, that I, with wings as swift
 As meditation or the thoughts of love,
 May sweep to my revenge.
-Ghost
+GHOST
 I find thee apt;
 And duller shouldst thou be than the fat weed
 That roots itself in ease on Lethe wharf,
@@ -991,7 +991,7 @@ The serpent that did sting thy father's life
 Now wears his crown.
 HAMLET
 O my prophetic soul! My uncle!
-Ghost
+GHOST
 Ay, that incestuous, that adulterate beast,
 With witchcraft of his wit, with traitorous gifts,--
 O wicked wit and gifts, that have the power
@@ -1149,7 +1149,7 @@ MARCELLUS
 We have sworn, my lord, already.
 HAMLET
 Indeed, upon my sword, indeed.
-Ghost
+GHOST
 [Beneath]  Swear.
 HAMLET
 Ah, ha, boy! say'st thou so? art thou there,
@@ -1161,7 +1161,7 @@ Propose the oath, my lord.
 HAMLET
 Never to speak of this that you have seen,
 Swear by my sword.
-Ghost
+GHOST
 [Beneath]  Swear.
 HAMLET
 Hic et ubique? then we'll shift our ground.
@@ -1169,7 +1169,7 @@ Come hither, gentlemen,
 And lay your hands again upon my sword:
 Never to speak of this that you have heard,
 Swear by my sword.
-Ghost
+GHOST
 [Beneath]  Swear.
 HAMLET
 Well said, old mole! canst work i' the earth so fast?
@@ -1192,7 +1192,7 @@ Or 'If we list to speak,' or 'There be, an if they might,'
 Or such ambiguous giving out, to note
 That you know aught of me: this not to do,
 So grace and mercy at your most need help you, Swear.
-Ghost
+GHOST
 [Beneath]  Swear.
 HAMLET
 Rest, rest, perturbed spirit!
@@ -1463,10 +1463,10 @@ I doubt it is no other but the main;
 His father's death, and our o'erhasty marriage.
 KING
 Well, we shall sift him.
-[Re-enter POLONIUS, with VOLTIMAND and CORNELIUS]
+[Re-enter POLONIUS, with VOLTEMAND and CORNELIUS]
 Welcome, my good friends!
 Say, Voltimand, what from our brother Norway?
-VOLTIMAND
+VOLTEMAND
 Most fair return of greetings and desires.
 Upon our first, he sent out to suppress
 His nephew's levies; which to him appear'd
@@ -1496,7 +1496,7 @@ Answer, and think upon this business.
 Meantime we thank you for your well-took labour:
 Go to your rest; at night we'll feast together:
 Most welcome home!
-[Exeunt VOLTIMAND and CORNELIUS]
+[Exeunt VOLTEMAND and CORNELIUS]
 POLONIUS
 This business is well ended.
 My liege, and madam, to expostulate
@@ -3277,7 +3277,7 @@ QUEEN
 No more!
 HAMLET
 A king of shreds and patches,--
-[Enter Ghost]
+[Enter GHOST]
 Save me, and hover o'er me with your wings,
 You heavenly guards! What would your gracious figure?
 QUEEN
@@ -3286,7 +3286,7 @@ HAMLET
 Do you not come your tardy son to chide,
 That, lapsed in time and passion, lets go by
 The important acting of your dread command? O, say!
-Ghost
+GHOST
 Do not forget: this visitation
 Is but to whet thy almost blunted purpose.
 But, look, amazement on thy mother sits:
@@ -3326,7 +3326,7 @@ HAMLET
 Why, look you there! look, how it steals away!
 My father, in his habit as he lived!
 Look, where he goes, even now, out at the portal!
-[Exit Ghost]
+[Exit GHOST]
 QUEEN
 This the very coinage of your brain:
 This bodiless creation ecstasy

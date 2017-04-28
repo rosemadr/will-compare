@@ -10,7 +10,7 @@ for line in fileinput.input():
                   'POLONIUS', 'HAMLET', 'QUEEN', 'OPHELIA',
                   'GHOST', 'REYNALDO', 'ROSENCRANTZ', 'GUILDENSTERN',
                   'FIRST PLAYER', 'PLAYER KING', 'PLAYER QUEEN', 'LUCIANUS',
-                  'GRAVEDIGGER', 'OTHER', 'PROLOGUE', 'FORTINBRAS','AMBASSADOR']:
+                  'GRAVEDIGGER', 'OTHER', 'PROLOGUE', 'FORTINBRAS','AMBASSADOR', 'OSRIC', 'LORD',]:
         line = re.sub('^'+name, name+'\n', line.rstrip())
 
     print(line)

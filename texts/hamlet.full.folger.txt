@@ -5017,7 +5017,8 @@ Into a tow'ring passion.
 HORATIO
 Peace, who comes here?
 [Enter Osric, a courtier.]
-OSRIC  Your Lordship is right welcome back to
+OSRIC
+Your Lordship is right welcome back to
 Denmark.
 HAMLET
 I humbly thank you, sir. [Aside to Horatio.]
@@ -5030,28 +5031,33 @@ for 'tis a vice to know him. He hath much
 land, and fertile. Let a beast be lord of beasts and his
 crib shall stand at the king's mess. 'Tis a chough,
 but, as I say, spacious in the possession of dirt.
-OSRIC  Sweet lord, if your Lordship were at leisure, I
+OSRIC
+Sweet lord, if your Lordship were at leisure, I
 should impart a thing to you from his Majesty.
 HAMLET
 I will receive it, sir, with all diligence of
 spirit. Put your bonnet to his right use: 'tis for the
 head.
-OSRIC  I thank your Lordship; it is very hot.
+OSRIC
+I thank your Lordship; it is very hot.
 HAMLET
 No, believe me, 'tis very cold; the wind is
 northerly.
-OSRIC  It is indifferent cold, my lord, indeed.
+OSRIC
+It is indifferent cold, my lord, indeed.
 HAMLET
 But yet methinks it is very sultry and hot for
 my complexion.
-OSRIC  Exceedingly, my lord; it is very sultry, as
+OSRIC
+Exceedingly, my lord; it is very sultry, as
 'twere--I cannot tell how. My lord, his Majesty
 bade me signify to you that he has laid a great wager
 on your head. Sir, this is the matter--
 HAMLET
 I beseech you, remember. [He motions to
 Osric to put on his hat.]
-OSRIC  Nay, good my lord, for my ease, in good faith.
+OSRIC
+Nay, good my lord, for my ease, in good faith.
 Sir, here is newly come to court Laertes--believe
 me, an absolute gentleman, full of most excellent
 differences, of very soft society and great showing.
@@ -5068,42 +5074,50 @@ article, and his infusion of such dearth and rareness
 as, to make true diction of him, his semblable is his
 mirror, and who else would trace him, his umbrage,
 nothing more.
-OSRIC  Your Lordship speaks most infallibly of him.
+OSRIC
+Your Lordship speaks most infallibly of him.
 HAMLET
 The concernancy, sir? Why do we wrap the
 gentleman in our more rawer breath?
-OSRIC  Sir?
+OSRIC
+Sir?
 HORATIO
 Is 't not possible to understand in another
 tongue? You will to 't, sir, really.
 HAMLET
 , [to Osric]  What imports the nomination of
 this gentleman?
-OSRIC  Of Laertes?
+OSRIC
+Of Laertes?
 HORATIO
 His purse is empty already; all 's golden words
 are spent.
 HAMLET
 Of him, sir.
-OSRIC  I know you are not ignorant--
+OSRIC
+I know you are not ignorant--
 HAMLET
 I would you did, sir. Yet, in faith, if you did, it
 would not much approve me. Well, sir?
-OSRIC  You are not ignorant of what excellence Laertes
+OSRIC
+You are not ignorant of what excellence Laertes
 is--
 HAMLET
 I dare not confess that, lest I should compare
 with him in excellence. But to know a man well
 were to know himself.
-OSRIC  I mean, sir, for his weapon. But in the imputation
+OSRIC
+I mean, sir, for his weapon. But in the imputation
 laid on him by them, in his meed he's
 unfellowed.
 HAMLET
 What's his weapon?
-OSRIC  Rapier and dagger.
+OSRIC
+Rapier and dagger.
 HAMLET
 That's two of his weapons. But, well--
-OSRIC  The King, sir, hath wagered with him six Barbary
+OSRIC
+The King, sir, hath wagered with him six Barbary
 horses, against the which he has impawned, as I
 take it, six French rapiers and poniards, with their
 assigns, as girdle, hangers, and so. Three of the
@@ -5115,7 +5129,8 @@ What call you the "carriages"?
 HORATIO
 I knew you must be edified by the margent
 ere you had done.
-OSRIC  The carriages, sir, are the hangers.
+OSRIC
+The carriages, sir, are the hangers.
 HAMLET
 The phrase would be more germane to the
 matter if we could carry a cannon by our sides. I
@@ -5124,14 +5139,16 @@ Barbary horses against six French swords, their
 assigns, and three liberal-conceited carriages--
 that's the French bet against the Danish. Why is this
 all "impawned," as you call it?
-OSRIC  The King, sir, hath laid, sir, that in a dozen
+OSRIC
+The King, sir, hath laid, sir, that in a dozen
 passes between yourself and him, he shall not
 exceed you three hits. He hath laid on twelve for
 nine, and it would come to immediate trial if your
 Lordship would vouchsafe the answer.
 HAMLET
 How if I answer no?
-OSRIC  I mean, my lord, the opposition of your person
+OSRIC
+I mean, my lord, the opposition of your person
 in trial.
 HAMLET
 Sir, I will walk here in the hall. If it please his
@@ -5140,11 +5157,13 @@ the foils be brought, the gentleman willing, and the
 King hold his purpose, I will win for him, an I can.
 If not, I will gain nothing but my shame and the odd
 hits.
-OSRIC  Shall I deliver you e'en so?
+OSRIC
+Shall I deliver you e'en so?
 HAMLET
 To this effect, sir, after what flourish your
 nature will.
-OSRIC  I commend my duty to your Lordship.
+OSRIC
+I commend my duty to your Lordship.
 HAMLET
 Yours. [Osric exits.] He does well to commend
 it himself. There are no tongues else for 's
@@ -5161,8 +5180,9 @@ encounter, a kind of yeasty collection, which carries
 them through and through the most fanned
 and winnowed opinions; and do but blow them to
 their trial, the bubbles are out.
-[Enter a Lord.]
-LORD  My lord, his Majesty commended him to you by
+[Enter a LORD]
+LORD
+My lord, his Majesty commended him to you by
 young Osric, who brings back to him that you
 attend him in the hall. He sends to know if your
 pleasure hold to play with Laertes, or that you will
@@ -5172,10 +5192,12 @@ I am constant to my purposes. They follow
 the King's pleasure. If his fitness speaks, mine is
 ready now or whensoever, provided I be so able as
 now.
-LORD  The King and Queen and all are coming down.
+LORD
+The King and Queen and all are coming down.
 HAMLET
 In happy time.
-LORD  The Queen desires you to use some gentle
+LORD
+The Queen desires you to use some gentle
 entertainment to Laertes before you fall to play.
 HAMLET
 She well instructs me.	[Lord exits.]
@@ -5265,7 +5287,8 @@ LAERTES
 This is too heavy. Let me see another.
 HAMLET
 This likes me well. These foils have all a length?
-OSRIC  Ay, my good lord.
+OSRIC
+Ay, my good lord.
 [Prepare to play.]
 KING
 Set me the stoups of wine upon that table.--
@@ -5292,7 +5315,8 @@ LAERTES
 No.
 HAMLET
 Judgment!
-OSRIC  A hit, a very palpable hit.
+OSRIC
+A hit, a very palpable hit.
 LAERTES
 Well, again.
 KING
@@ -5340,7 +5364,8 @@ I pray you pass with your best violence.
 I am afeard you make a wanton of me.
 LAERTES
 Say you so? Come on.	[Play.]
-OSRIC  Nothing neither way.
+OSRIC
+Nothing neither way.
 LAERTES
 Have at you now!
 [Laertes wounds Hamlet. Then in scuffling they change
@@ -5350,10 +5375,12 @@ Part them. They are incensed.
 HAMLET
 Nay, come again.
 [The Queen falls.]
-OSRIC  Look to the Queen there, ho!
+OSRIC
+Look to the Queen there, ho!
 HORATIO
 They bleed on both sides.--How is it, my lord?
-OSRIC  How is 't, Laertes?
+OSRIC
+How is 't, Laertes?
 LAERTES
 Why as a woodcock to mine own springe, Osric.
 [He falls.]

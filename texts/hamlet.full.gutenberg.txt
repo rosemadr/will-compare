@@ -4807,7 +4807,7 @@ Into a towering passion.
 HORATIO
 Peace; who comes here?
 [Enter Osric.]
-Osr.
+OSRIC
 Your lordship is right welcome back to Denmark.
 HAMLET
 I humbly thank you, sir. Dost know this water-fly?
@@ -4818,21 +4818,21 @@ Thy state is the more gracious; for 'tis a vice to know him. He
 hath much land, and fertile: let a beast be lord of beasts, and
 his crib shall stand at the king's mess; 'tis a chough; but, as I
 say, spacious in the possession of dirt.
-Osr.
+OSRIC
 Sweet lord, if your lordship were at leisure, I should
 impart a thing to you from his majesty.
 HAMLET
 I will receive it with all diligence of spirit. Put your
 bonnet to his right use; 'tis for the head.
-Osr.
+OSRIC
 I thank your lordship, t'is very hot.
 HAMLET
 No, believe me, 'tis very cold; the wind is northerly.
-Osr.
+OSRIC
 It is indifferent cold, my lord, indeed.
 HAMLET
 Methinks it is very sultry and hot for my complexion.
-Osr.
+OSRIC
 Exceedingly, my lord; it is very sultry,--as 'twere--I cannot
 tell how. But, my lord, his majesty bade me signify to you that
 he has laid a great wager on your head. Sir, this is the
@@ -4840,7 +4840,7 @@ matter,--
 HAMLET
 I beseech you, remember,--
 [Hamlet moves him to put on his hat.]
-Osr.
+OSRIC
 Nay, in good faith; for mine ease, in good faith. Sir, here
 is newly come to court Laertes; believe me, an absolute
 gentleman, full of most excellent differences, of very soft
@@ -4855,44 +4855,44 @@ But, in the verity of extolment, I take him to be a soul of great
 article, and his infusion of such dearth and rareness as, to make
 true diction of him, his semblable is his mirror, and who else
 would trace him, his umbrage, nothing more.
-Osr.
+OSRIC
 Your lordship speaks most infallibly of him.
 HAMLET
 The concernancy, sir? why do we wrap the gentleman in our more
 rawer breath?
-Osr.
+OSRIC
 Sir?
 HORATIO
 Is't not possible to understand in another tongue? You will do't,
 sir, really.
 HAMLET
 What imports the nomination of this gentleman?
-Osr.
+OSRIC
 Of Laertes?
 HORATIO
 His purse is empty already; all's golden words are spent.
 HAMLET
 Of him, sir.
-Osr.
+OSRIC
 I know, you are not ignorant,--
 HAMLET
 I would you did, sir; yet, in faith, if you did, it would not
 much approve me.--Well, sir.
-Osr.
+OSRIC
 You are not ignorant of what excellence Laertes is,--
 HAMLET
 I dare not confess that, lest I should compare with him in
 excellence; but to know a man well were to know himself.
-Osr.
+OSRIC
 I mean, sir, for his weapon; but in the imputation laid on
 him by them, in his meed he's unfellowed.
 HAMLET
 What's his weapon?
-Osr.
+OSRIC
 Rapier and dagger.
 HAMLET
 That's two of his weapons:--but well.
-Osr.
+OSRIC
 The king, sir, hath wager'd with him six Barbary horses:
 against the which he has imponed, as I take it, six French
 rapiers and poniards, with their assigns, as girdle, hangers, and
@@ -4903,7 +4903,7 @@ HAMLET
 What call you the carriages?
 HORATIO
 I knew you must be edified by the margent ere you had done.
-Osr.
+OSRIC
 The carriages, sir, are the hangers.
 HAMLET
 The phrase would be more german to the matter if we could
@@ -4911,14 +4911,14 @@ carry cannon by our sides. I would it might be hangers till then.
 But, on: six Barbary horses against six French swords, their
 assigns, and three liberal conceited carriages: that's the French
 bet against the Danish: why is this all imponed, as you call it?
-Osr.
+OSRIC
 The king, sir, hath laid that, in a dozen passes between
 your and him, he shall not exceed you three hits: he hath
 laid on twelve for nine; and it would come to immediate trial
 if your lordship would vouchsafe the answer.
 HAMLET
 How if I answer no?
-Osr.
+OSRIC
 I mean, my lord, the opposition of your person in trial.
 HAMLET
 Sir, I will walk here in the hall: if it please his majesty,
@@ -4926,11 +4926,11 @@ it is the breathing time of day with me: let the foils be
 brought, the gentleman willing, and the king hold his purpose,
 I will win for him if I can; if not, I will gain nothing but my
 shame and the odd hits.
-Osr.
+OSRIC
 Shall I re-deliver you e'en so?
 HAMLET
 To this effect, sir; after what flourish your nature will.
-Osr.
+OSRIC
 I commend my duty to your lordship.
 HAMLET
 Yours, yours.
@@ -4946,8 +4946,8 @@ only got the tune of the time and outward habit of encounter;
 a kind of yesty collection, which carries them through and
 through the most fanned and winnowed opinions; and do but blow
 them to their trial, the bubbles are out,
-[Enter a Lord.]
-Lord.
+[Enter a LORD]
+LORD
 My lord, his majesty commended him to you by young Osric,
 who brings back to him that you attend him in the hall: he sends
 to know if your pleasure hold to play with Laertes, or that you
@@ -4956,16 +4956,16 @@ HAMLET
 I am constant to my purposes; they follow the king's pleasure:
 if his fitness speaks, mine is ready; now or whensoever, provided
 I be so able as now.
-Lord.
+LORD
 The King and Queen and all are coming down.
 HAMLET
 In happy time.
-Lord.
+LORD
 The queen desires you to use some gentle entertainment to
 Laertes before you fall to play.
 HAMLET
 She well instructs me.
-[Exit Lord.]
+[Exit LORD]
 HORATIO
 You will lose this wager, my lord.
 HAMLET
@@ -5049,7 +5049,7 @@ This is too heavy, let me see another.
 HAMLET
 This likes me well. These foils have all a length?
 [They prepare to play.]
-Osr.
+OSRIC
 Ay, my good lord.
 KING
 Set me the stoups of wine upon that table,--
@@ -5076,7 +5076,7 @@ LAERTES
 No.
 HAMLET
 Judgment!
-Osr.
+OSRIC
 A hit, a very palpable hit.
 LAERTES
 Well;--again.
@@ -5122,7 +5122,7 @@ I am afeard you make a wanton of me.
 LAERTES
 Say you so? come on.
 [They play.]
-Osr.
+OSRIC
 Nothing, neither way.
 LAERTES
 Have at you now!
@@ -5133,11 +5133,11 @@ Part them; they are incens'd.
 HAMLET
 Nay, come again!
 [The Queen falls.]
-Osr.
+OSRIC
 Look to the queen there, ho!
 HORATIO
 They bleed on both sides.--How is it, my lord?
-Osr.
+OSRIC
 How is't, Laertes?
 LAERTES
 Why, as a woodcock to my own springe, Osric;
@@ -5208,7 +5208,7 @@ And in this harsh world draw thy breath in pain,
 To tell my story.--
 [March afar off, and shot within.]
 What warlike noise is this?
-Osr.
+OSRIC
 Young Fortinbras, with conquest come from Poland,
 To the ambassadors of England gives
 This warlike volley.

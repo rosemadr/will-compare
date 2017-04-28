@@ -30,6 +30,8 @@ for line in fileinput.input():
     line = line.replace('PRINCE FORTINBRAS','FORTINBRAS')
     line = line.replace('1 Ambassador.','AMBASSADOR')
     line = line.replace('First Ambassador','AMBASSADOR')
+    line = line.replace('Lord.', 'LORD')
+    line = line.replace('Osr.', 'OSRIC')
     line = line.replace('I Play.','FIRST PLAYER')
     line = line.replace('First Player','FIRST PLAYER')
     line = line.replace('P. King.','PLAYER KING')

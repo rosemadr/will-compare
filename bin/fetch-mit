@@ -1,3 +1,5 @@
+#!/bin/bash
+
 URL=http://shakespeare.mit.edu/hamlet/full.html
 OUT=`basename $URL`
 
